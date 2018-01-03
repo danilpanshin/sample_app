@@ -7,6 +7,7 @@ gem 'rails'
 group :development, :test do
   gem 'sqlite3'
   gem 'rspec-rails'
+  gem 'listen'
 end
 
 group :test do
